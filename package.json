@@ -1,0 +1,19 @@
+{
+  "name": "fusion360",
+  "version": "1.0.0",
+  "description": "fusion360",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-rohit/fusion360.git"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-rohit/fusion360/issues"
+  },
+  "homepage": "https://github.com/b-rohit/fusion360#readme"
+}
